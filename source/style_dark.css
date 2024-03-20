@@ -521,7 +521,7 @@ Instead, edit the stylus (.styl) files and compile it to CSS on your machine.
    body:not(.no-literate) .content {
      padding-left: 0;
      padding-right: 0;
-     width: 930px;
+     width: 970px;
      max-width: none;
    }
    body:not(.no-literate) .content > p,
@@ -555,7 +555,7 @@ Instead, edit the stylus (.styl) files and compile it to CSS on your machine.
     border-radius: 8px;
     border-top: solid 1px #222;
     border-left: solid 1px #222;
-     width: 380px;
+     width: 420px;
      padding-left: 20px;
      padding-right: 20px;
      float: right;
